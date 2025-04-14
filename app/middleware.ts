@@ -1,22 +1,25 @@
 import { NextResponse } from 'next/server';
 import { NextRequest } from 'next/server';
+import { verifyToken } from '@/lib/verifyToken'; // Optional
 
 export function middleware(request: NextRequest) {
   const url = request.nextUrl.pathname;
-  const isAdminPage = url.startsWith('/admin');
+  const isProtected = url.startsWith('/admin') || url.startsWith('/dashboard');
+  const token = request.cookies.get('auth_token')?.value;
 
-  // Check if user is trying to access admin page
-  if (isAdminPage) {
-    const isLoggedIn = request.cookies.has('auth_token'); // Check if user is logged in
-    if (!isLoggedIn) {
-      // If not logged in, redirect to login page
-      return NextResponse.redirect(new URL('/login', request.url));
-    }
+  if (isProtected && !token) {
+    // If not logged in, redirect to login
+    return NextResponse.redirect(new URL('/login', request.url));
   }
 
-  return NextResponse.next(); // Allow the request if user is logged in
+  // Optional: Add real token verification
+  if (token && !verifyToken(token)) {
+    return NextResponse.redirect(new URL('/login', request.url));
+  }
+
+  return NextResponse.next();
 }
 
 export const config = {
-  matcher: ['/admin/:path*', '/dashboard/:path*'], // Use `:path*` for wildcard matching
+  matcher: ['/admin/:path*', '/dashboard/:path*'],
 };
