@@ -1,0 +1,403 @@
+{
+  "table": [
+    {
+      "Einnahmen": "Monat",
+      "Ausgaben": "",
+      "Belegdatum": "",
+      "BelegNr": "",
+      "Text": ""
+    },
+    {
+      "Einnahmen": "Jan-März",
+      "Ausgaben": "",
+      "Belegdatum": "",
+      "BelegNr": "",
+      "Text": ""
+    },
+    {
+      "Einnahmen": "Jahr",
+      "Ausgaben": "",
+      "Belegdatum": "",
+      "BelegNr": "",
+      "Text": ""
+    },
+    {
+      "Einnahmen": "Bestand zum Monatsanfang:",
+      "Ausgaben": "",
+      "Belegdatum": "",
+      "BelegNr": "",
+      "Text": ""
+    },
+    {
+      "Einnahmen": "€",
+      "Ausgaben": "",
+      "Belegdatum": "",
+      "BelegNr": "",
+      "Text": ""
+    },
+    {
+      "Einnahmen": "2024",
+      "Ausgaben": "",
+      "Belegdatum": "",
+      "BelegNr": "",
+      "Text": ""
+    },
+    {
+      "Einnahmen": "Blatt-Nr.",
+      "Ausgaben": "",
+      "Belegdatum": "",
+      "BelegNr": "",
+      "Text": ""
+    },
+    {
+      "Einnahmen": "1",
+      "Ausgaben": "",
+      "Belegdatum": "",
+      "BelegNr": "",
+      "Text": ""
+    },
+    {
+      "Einnahmen": "Einnahmen",
+      "Ausgaben": "",
+      "Belegdatum": "",
+      "BelegNr": "",
+      "Text": ""
+    },
+    {
+      "Einnahmen": "Ausgaben",
+      "Ausgaben": "",
+      "Belegdatum": "",
+      "BelegNr": "",
+      "Text": ""
+    },
+    {
+      "Einnahmen": "Belegdatum Beleg-Nr.",
+      "Ausgaben": "",
+      "Belegdatum": "",
+      "BelegNr": "",
+      "Text": ""
+    },
+    {
+      "Einnahmen": "Text",
+      "Ausgaben": "",
+      "Belegdatum": "",
+      "BelegNr": "",
+      "Text": ""
+    },
+    {
+      "Einnahmen": "200 €",
+      "Ausgaben": "",
+      "Belegdatum": "",
+      "BelegNr": "",
+      "Text": ""
+    },
+    {
+      "Einnahmen": "02.01.2024",
+      "Ausgaben": "",
+      "Belegdatum": "",
+      "BelegNr": "",
+      "Text": ""
+    },
+    {
+      "Einnahmen": "300 €",
+      "Ausgaben": "",
+      "Belegdatum": "",
+      "BelegNr": "",
+      "Text": ""
+    },
+    {
+      "Einnahmen": "08.02.2024",
+      "Ausgaben": "",
+      "Belegdatum": "",
+      "BelegNr": "",
+      "Text": ""
+    },
+    {
+      "Einnahmen": "206,00 €",
+      "Ausgaben": "",
+      "Belegdatum": "",
+      "BelegNr": "",
+      "Text": ""
+    },
+    {
+      "Einnahmen": "12.03.2024",
+      "Ausgaben": "",
+      "Belegdatum": "",
+      "BelegNr": "",
+      "Text": ""
+    },
+    {
+      "Einnahmen": "10,85 €",
+      "Ausgaben": "",
+      "Belegdatum": "",
+      "BelegNr": "",
+      "Text": ""
+    },
+    {
+      "Einnahmen": "12.01.2024",
+      "Ausgaben": "",
+      "Belegdatum": "",
+      "BelegNr": "",
+      "Text": ""
+    },
+    {
+      "Einnahmen": "2,49 €",
+      "Ausgaben": "",
+      "Belegdatum": "",
+      "BelegNr": "",
+      "Text": ""
+    },
+    {
+      "Einnahmen": "19.01.2024",
+      "Ausgaben": "",
+      "Belegdatum": "",
+      "BelegNr": "",
+      "Text": ""
+    },
+    {
+      "Einnahmen": "5,99 €",
+      "Ausgaben": "",
+      "Belegdatum": "",
+      "BelegNr": "",
+      "Text": ""
+    },
+    {
+      "Einnahmen": "31.01.2024",
+      "Ausgaben": "",
+      "Belegdatum": "",
+      "BelegNr": "",
+      "Text": ""
+    },
+    {
+      "Einnahmen": "Bank Auszahlung Kasse",
+      "Ausgaben": "",
+      "Belegdatum": "",
+      "BelegNr": "",
+      "Text": ""
+    },
+    {
+      "Einnahmen": "Bank Auszahlung Kasse",
+      "Ausgaben": "",
+      "Belegdatum": "",
+      "BelegNr": "",
+      "Text": ""
+    },
+    {
+      "Einnahmen": "Bank Auszahlung Kasse",
+      "Ausgaben": "",
+      "Belegdatum": "",
+      "BelegNr": "",
+      "Text": ""
+    },
+    {
+      "Einnahmen": "DM Fürth",
+      "Ausgaben": "",
+      "Belegdatum": "",
+      "BelegNr": "",
+      "Text": ""
+    },
+    {
+      "Einnahmen": "ATU",
+      "Ausgaben": "",
+      "Belegdatum": "",
+      "BelegNr": "",
+      "Text": ""
+    },
+    {
+      "Einnahmen": "edeka Fürth",
+      "Ausgaben": "",
+      "Belegdatum": "",
+      "BelegNr": "",
+      "Text": ""
+    },
+    {
+      "Einnahmen": "245 €",
+      "Ausgaben": "",
+      "Belegdatum": "",
+      "BelegNr": "",
+      "Text": ""
+    },
+    {
+      "Einnahmen": "13.02.2024",
+      "Ausgaben": "",
+      "Belegdatum": "",
+      "BelegNr": "",
+      "Text": ""
+    },
+    {
+      "Einnahmen": "Post Fürth",
+      "Ausgaben": "",
+      "Belegdatum": "",
+      "BelegNr": "",
+      "Text": ""
+    },
+    {
+      "Einnahmen": "1,60 €",
+      "Ausgaben": "",
+      "Belegdatum": "",
+      "BelegNr": "",
+      "Text": ""
+    },
+    {
+      "Einnahmen": "13.02.2024",
+      "Ausgaben": "",
+      "Belegdatum": "",
+      "BelegNr": "",
+      "Text": ""
+    },
+    {
+      "Einnahmen": "Post Fürth",
+      "Ausgaben": "",
+      "Belegdatum": "",
+      "BelegNr": "",
+      "Text": ""
+    },
+    {
+      "Einnahmen": "47,00 €",
+      "Ausgaben": "",
+      "Belegdatum": "",
+      "BelegNr": "",
+      "Text": ""
+    },
+    {
+      "Einnahmen": "24.02.2024",
+      "Ausgaben": "",
+      "Belegdatum": "",
+      "BelegNr": "",
+      "Text": ""
+    },
+    {
+      "Einnahmen": "Muji Berlin",
+      "Ausgaben": "",
+      "Belegdatum": "",
+      "BelegNr": "",
+      "Text": ""
+    },
+    {
+      "Einnahmen": "173,83 €",
+      "Ausgaben": "",
+      "Belegdatum": "",
+      "BelegNr": "",
+      "Text": ""
+    },
+    {
+      "Einnahmen": "04.03.2024",
+      "Ausgaben": "",
+      "Belegdatum": "",
+      "BelegNr": "",
+      "Text": ""
+    },
+    {
+      "Einnahmen": "Ikea Fürth",
+      "Ausgaben": "",
+      "Belegdatum": "",
+      "BelegNr": "",
+      "Text": ""
+    },
+    {
+      "Einnahmen": "27,29 €",
+      "Ausgaben": "",
+      "Belegdatum": "",
+      "BelegNr": "",
+      "Text": ""
+    },
+    {
+      "Einnahmen": "07.03.2024",
+      "Ausgaben": "",
+      "Belegdatum": "",
+      "BelegNr": "",
+      "Text": ""
+    },
+    {
+      "Einnahmen": "70,00 €",
+      "Ausgaben": "",
+      "Belegdatum": "",
+      "BelegNr": "",
+      "Text": ""
+    },
+    {
+      "Einnahmen": "14.03.2024",
+      "Ausgaben": "",
+      "Belegdatum": "",
+      "BelegNr": "",
+      "Text": ""
+    },
+    {
+      "Einnahmen": "4,99 €",
+      "Ausgaben": "",
+      "Belegdatum": "",
+      "BelegNr": "",
+      "Text": ""
+    },
+    {
+      "Einnahmen": "28.03.2024",
+      "Ausgaben": "",
+      "Belegdatum": "",
+      "BelegNr": "",
+      "Text": ""
+    },
+    {
+      "Einnahmen": "3,99 €",
+      "Ausgaben": "",
+      "Belegdatum": "",
+      "BelegNr": "",
+      "Text": ""
+    },
+    {
+      "Einnahmen": "28.03.2024",
+      "Ausgaben": "",
+      "Belegdatum": "",
+      "BelegNr": "",
+      "Text": ""
+    },
+    {
+      "Einnahmen": "40,00 €",
+      "Ausgaben": "",
+      "Belegdatum": "",
+      "BelegNr": "",
+      "Text": ""
+    },
+    {
+      "Einnahmen": "30.03.2024",
+      "Ausgaben": "",
+      "Belegdatum": "",
+      "BelegNr": "",
+      "Text": ""
+    },
+    {
+      "Einnahmen": "edeka Fürth",
+      "Ausgaben": "",
+      "Belegdatum": "",
+      "BelegNr": "",
+      "Text": ""
+    },
+    {
+      "Einnahmen": "Per Bacco Planung ETV",
+      "Ausgaben": "",
+      "Belegdatum": "",
+      "BelegNr": "",
+      "Text": ""
+    },
+    {
+      "Einnahmen": "Box Fürth",
+      "Ausgaben": "",
+      "Belegdatum": "",
+      "BelegNr": "",
+      "Text": ""
+    },
+    {
+      "Einnahmen": "Post Fürth",
+      "Ausgaben": "",
+      "Belegdatum": "",
+      "BelegNr": "",
+      "Text": ""
+    },
+    {
+      "Einnahmen": "Blumen Bingold für Mitarbeiterin",
+      "Ausgaben": "",
+      "Belegdatum": "",
+      "BelegNr": "",
+      "Text": ""
+    }
+  ]
+}
