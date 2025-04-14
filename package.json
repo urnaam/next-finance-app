@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@google-cloud/vision": "^5.1.0",
+    "@napi-rs/canvas": "^0.1.69",
     "bcrypt": "^5.1.1",
     "bcryptjs": "^3.0.2",
     "better-sqlite3": "^11.9.1",

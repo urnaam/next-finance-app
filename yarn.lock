@@ -357,7 +357,7 @@
   resolved "https://registry.yarnpkg.com/@napi-rs/canvas-win32-x64-msvc/-/canvas-win32-x64-msvc-0.1.69.tgz#7b63c1694c5ef11db9695f5917e3f6670562bc60"
   integrity sha512-Q4YA8kVnKarApBVLu7F8icGlIfSll5Glswo5hY6gPS4Is2dCI8+ig9OeDM8RlwYevUIxKq8lZBypN8Q1iLAQ7w==
 
-"@napi-rs/canvas@^0.1.67":
+"@napi-rs/canvas@^0.1.67", "@napi-rs/canvas@^0.1.69":
   version "0.1.69"
   resolved "https://registry.yarnpkg.com/@napi-rs/canvas/-/canvas-0.1.69.tgz#ac2e4113d0bd381568219d1ba22f0a8563d4c6b1"
   integrity sha512-ydvNeJMRm+l3T14yCoUKqjYQiEdXDq1isznI93LEBGYssXKfSaLNLHOkeM4z9Fnw9Pkt2EKOCAtW9cS4b00Zcg==
